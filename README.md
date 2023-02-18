@@ -73,8 +73,6 @@
  
 </div>
 
-</td><td valign="top" width="33%">
-
 </td></tr></table>
 
 <h2 align="left">Blogs</h2>

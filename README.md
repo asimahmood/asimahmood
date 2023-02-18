@@ -10,6 +10,14 @@
 
 ###
 
+<p align="left">✨ Creating bugs since 2021<br>📚 I'm currently learning NodeJs<br>🌱 I’m currently working in ReactJs and laravel.<br>💬 Ask me about JavaScript and laravel<br>🎲 Fun fact: I love Football</p>
+
+###
+
+<h2 align="left">Connect with me</h2>
+
+###
+
 <div align="left">
   <a href="https://www.linkedin.com/in/asim-mahmood/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
@@ -21,10 +29,6 @@
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="instagram logo"  />
   </a>
 </div>
-
-###
-
-<p align="left">✨ Creating bugs since 2021<br>📚 I'm currently learning NodeJs<br>🌱 I’m currently working in ReactJs and laravel.<br>💬 Ask me about JavaScript and laravel<br>🎲 Fun fact: I love Football</p>
 
 ###
 

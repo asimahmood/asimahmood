@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2021<br>📚 I'm currently learning NodeJs<br>🌱 I’m currently working in ReactJs and laravel.<br>💬 Ask me about JavaScript and laravel<br>🎲 Fun fact: I love Football</p>
+<p align="left">✨ Creating bugs since 2021<br>🌱 I’m currently working in ReactJs and laravel.<br>💬 Ask me about JavaScript and laravel<br>🎲 Fun fact: I love Football</p>
 
 ###
 
